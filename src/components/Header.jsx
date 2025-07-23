@@ -23,7 +23,7 @@ function Header() {
             <h3 className="text-[#192335] font-bold text-[30px] leading-[54px]">
               Escola
             </h3>
-            <div className="w-[322px] h-[120px] absolute left-0 top-0 -translate-x-9 -translate-y-6 -z-10">
+            <div className="w-[322px] h-[120px] absolute left-0 top-0 -translate-x-10 -translate-y-6 -z-10">
               <img
                 className="w-full h-full object-cover"
                 src="/triangle_image.png"
