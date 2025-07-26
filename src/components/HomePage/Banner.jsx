@@ -9,7 +9,6 @@ function Banner() {
         backgroundImage: `url(${Banner_Image.src})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-         // adjust height as needed
       }}>
         <div className="w-[845px] h-[664px] absolute right-0 top-0 translate-x-0 translate-y-0">
             <img className="w-full h-full object-cover bg-left" src={Banner_.src} alt="" />

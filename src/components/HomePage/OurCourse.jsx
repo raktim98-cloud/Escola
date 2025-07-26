@@ -12,6 +12,7 @@ function OurCourse() {
           <SectionHead
             title="Top Popular Course"
             subtitle="Building A Better Tomorrow"
+            headClass="text-center"
             titleClass="text-primary text-blue-600 font-bold leading-[31.5px] -tracking-[0.3px] pb-[10px]"
             subtitleClass="text-[32px] text-[#192335] md:text-[42px] font-bold leading-[54.1px]"
           />
