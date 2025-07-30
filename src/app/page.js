@@ -5,7 +5,6 @@ import Knowledge from '@/components/HomePage/Knowledge'
 import NewsletterSubscribe from '@/components/HomePage/NewsletterSubscribe'
 import OurCourse from '@/components/HomePage/OurCourse'
 import PopularCourse from '@/components/HomePage/PopularCourse'
-import Testimonial from '@/components/HomePage/Testimonial'
 import YourJourney from '@/components/HomePage/YourJourney'
 import YourPartner from '@/components/HomePage/YourPartner'
 import React from 'react'
@@ -21,7 +20,7 @@ function Home() {
       <NewsletterSubscribe/>
       <YourPartner/>
       <YourJourney/>
-      <Testimonial/>
+      
       <ContactSection/>
     </div>
   )
