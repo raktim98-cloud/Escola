@@ -21,7 +21,7 @@ export default function ContactSection() {
             Bringing your <span className="text-blue-500">vision</span> to life
           </h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            For your car we will do everything advice design in us repairs and maintenance. We are the some preferred
+            For your car we will do everything advice design in us repairs and maintenance. We are the some preferred Raktim
           </p>
         </div>
         
