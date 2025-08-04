@@ -19,7 +19,7 @@ function Banner() {
                     <h5 className="text-[18px] font-bold leading-[31.5px] -tracking-[0.3px] text-[#4ADA85]">Click Learn Thrive</h5>
                     <h2 className="text-[59px] font-bold leading-[71.4px]  text-white">Unlock your potential through education</h2>
                     <p className="text-[17px]  leading-[26.1px]  text-white pr-10">Magnis viverra nisl rhoncus egestas rhoncus elit at. Massa volutpat eleifend pellentesque vivamus nulla</p>
-                    <div><Button text="Contact us" buttonClass="!bg-[#F8BC26] rounded-[5px] px-[36px]" 
+                    <div><Button text="Contact us" target="/contact" buttonClass="!bg-[#F8BC26] rounded-[5px] px-[36px]" 
                     textClass="text-[#192335] text-[15px] font-medium leading-[60px] tracking-[0.5px] group-hover:text-white transition-all"/></div>
                 </div>
             </div>

@@ -1,4 +1,5 @@
 import Banner from '@/components/HomePage/Banner'
+import Blogsection from '@/components/HomePage/Blogsection'
 import ContactSection from '@/components/HomePage/ContactSection'
 import FutureGeneration from '@/components/HomePage/FutureGeneration'
 import Knowledge from '@/components/HomePage/Knowledge'
@@ -20,8 +21,8 @@ function Home() {
       <NewsletterSubscribe/>
       <YourPartner/>
       <YourJourney/>
-      
       <ContactSection/>
+      <Blogsection/>
     </div>
   )
 }

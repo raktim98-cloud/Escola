@@ -26,6 +26,7 @@ function PopularCourse() {
               </p>
               <div className="">
                 <Button
+                target="/contact"
                   text="Contact us"
                   buttonClass="!bg-white rounded-[5px] px-[36px] border border-primary mt-[24px]"
                   firstSpanClass="!bg-primary"

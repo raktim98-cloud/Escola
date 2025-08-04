@@ -2,12 +2,12 @@ import Image from "next/image";
 export default function CourseCard({ course }) {
   return (
     <div className="bg-white rounded-xl shadow hover:shadow-lg transition-shadow duration-300">
-      <div className="relative w-[410px] h-[250px] overflow-hidden rounded-t-xl">
+      <div className="relative w-[370px] h-[250px] overflow-hidden rounded-t-xl">
   <Image 
     src={course.bgImage} 
     alt={course.title} 
     fill
-    className="object-cover transition-transform duration-500 ease-in-out hover:scale-110"
+    className="object-cover transition-transform duration-500 ease-in-out hover:scale-110 w-full h-full"
   />
   <span className="absolute top-4 left-5 bg-blue-600 text-white text-[13px] leading-[21px] font-medium px-[15px] py-[9px] rounded cursor-pointer">
     {course.subject}
