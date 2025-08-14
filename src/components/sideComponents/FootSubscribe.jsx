@@ -9,7 +9,7 @@ function FootSubscribe() {
     setEmail("");
   };
   return (
-    <div className="px-[80px] py-[60px] bg-blue-600 ">
+    <div className="px-[80px] py-[60px] bg-blue-600 rounded-1">
       <form
         onSubmit={handleClick}
         className="flex items-center justify-between gap-20"
