@@ -122,7 +122,7 @@ function Footer() {
               </div>
               {/* 3rd part end */}
 
-              <div></div>
+              
             </div>
           </div>
         </div>
